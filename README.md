@@ -1,7 +1,7 @@
 <img src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" width="400" height="250" /> there 👋,
 
 ### My name is Shubhanshu
-#### I am a DSA, CP, and AI/ML Blogger & SDE Enthusiast
+#### I am a DSA, CP, and AI/ML Blogger & an SDE Enthusiast
 ![Profile views](https://gpvc.arturio.dev/ShubhanshuJha)  
 
 I am Shubhanshu from India, and I do content for Competitive Coding, DSA, Machine Learning, and AI. I enjoy learning something new every day, especially about data structures & algorithms, as this is very helpful while doing competitive programming. I also enjoy writing technical blogs on my website and Quora.
@@ -37,9 +37,9 @@ I am Shubhanshu from India, and I do content for Competitive Coding, DSA, Machin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhanshuJha&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShubhanshuJha&theme=radical)  
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShubhanshuJha&theme=radical)](https://git.io/streak-stats) 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShubhanshuJha&theme=radical)  
 
 <!---
 ![GitHub metrics](https://metrics.lecoq.io/ShubhanshuJha)  
