@@ -41,4 +41,6 @@ I am Shubhanshu from India, and I do content for Competitive Coding, DSA, Machin
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShubhanshuJha&theme=radical)](https://git.io/streak-stats) 
 
+<!---
 ![GitHub metrics](https://metrics.lecoq.io/ShubhanshuJha)  
+-->
