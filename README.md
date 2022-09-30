@@ -1,7 +1,8 @@
-### Hi there 👋, my name is Shubhanshu
-#### I am a DSA, CP, and AI/ML Content Creator
+<img src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" width="400" height="250" /> there 👋,
+
+### My name is Shubhanshu
+#### I am a DSA, CP, and AI/ML Blogger & SDE Enthusiast
 ![Profile views](https://gpvc.arturio.dev/ShubhanshuJha)  
-![I am DSA, CP, and AI/ML Content Creator](https://scontent.fbom19-3.fna.fbcdn.net/v/t1.6435-9/119125914_111146147394316_4392259740100330165_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=0JUCc7sfivwAX_7C1Dn&_nc_ht=scontent.fbom19-3.fna&oh=00_AT9NqpEqaSlMHZK_u24W1tFfqCn_dWUkFfKfRniLWqB0aQ&oe=635C1881)
 
 I am Shubhanshu from India, and I do content for Competitive Coding, DSA, Machine Learning, and AI. I enjoy learning something new every day, especially about data structures & algorithms, as this is very helpful while doing competitive programming. I also enjoy writing technical blogs on my website and Quora.
 
