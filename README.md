@@ -23,7 +23,7 @@ I am Shubhanshu from India, and I do content for Competitive Coding, DSA, Machin
 - 👯 I’m looking to collaborate on Competitive Coding 
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about CP 
-- 📫 How to reach me: ![mail](shubhanshujha.s19@gmail.com) 
+- 📫 How to reach me: [G-mail](mailto:shubhanshujha.s19@gmail.com) 
 - 😄 Pronouns: He/Him 
 
 
