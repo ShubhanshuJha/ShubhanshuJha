@@ -2,7 +2,7 @@
 
 ### My name is Shubhanshu
 #### I am a DSA, CP, and AI/ML Blogger & an SDE Enthusiast
-![Profile views](https://gpvc.arturio.dev/ShubhanshuJha)  
+![Profile views](https://komarev.com/ghpvc/?username=ShubhanshuJha)
 
 I am Shubhanshu from India, and I do content for Competitive Coding, DSA, Machine Learning, and AI. I enjoy learning something new every day, especially about data structures & algorithms, as this is very helpful while doing competitive programming. I also enjoy writing technical blogs on my website and Quora.
 
@@ -11,8 +11,8 @@ I am Shubhanshu from India, and I do content for Competitive Coding, DSA, Machin
 * Won Meta Hacker Cup 2022 Qualification Round
 * TCS CodeVita Season 10 Global Rank: 1720✨
 * Founder at AskTheCode (from 2020 - 2021)
-* Co-Founder at CodeX (from 2021 - Now)
-* Pursuing B. Tech. from FIEM, Kolkata
+* Co-founder at CodeX (from 2021 - Now)
+* B. Tech. Graduate
 * Techie Passionate about Programming
 * Tech Blogger
 
@@ -21,7 +21,7 @@ I am Shubhanshu from India, and I do content for Competitive Coding, DSA, Machin
 - 🔭 I’m currently working on Self Skills Enhancement 
 - 🌱 I’m currently learning Machine Learning & Non-Linear Data Structures 
 - 👯 I’m looking to collaborate on Competitive Coding 
-- 🤔 I’m looking for help with Deep Learning 
+- 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about CP 
 - 📫 How to reach me: ![mail](shubhanshujha.s19@gmail.com) 
 - 😄 Pronouns: He/Him 
