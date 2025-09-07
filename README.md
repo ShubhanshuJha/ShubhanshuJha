@@ -13,18 +13,17 @@ I am Shubhanshu from India, and I am currently working as a Data Engineer at Zel
 * Won Meta Hacker Cup 2022 Qualification Round
 * TCS CodeVita Season 10 Global Rank: 1720✨
 * Founder at AskTheCode (from 2020 - 2021)
-* Co-founder at CodeX (from 2021 - Now)
+* Co-Founder at CodeX (from 2021 - Now)
 * B. Tech. Graduate
 * Techie Passionate about Programming
-* Tech Blogger
 
-### Skills: Java / Python / C / JS / HTML / CSS / Bash
+### Skills: Java / Python / C / JS / HTML / CSS / Bash / PySpark / SQL / Kafka / Docker / AWS / Git
 
-- 🔭 I’m currently working on Self Skills Enhancement 
-- 🌱 I’m currently learning Machine Learning & Non-Linear Data Structures 
-- 👯 I’m looking to collaborate on Competitive Coding 
-- 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me about CP 
+- 🔭 I’m currently working as a DE focussing on enhancing my skills further 
+- 🌱 I’m currently learning about Machine Learning
+- 👯 I’m looking to collaborate on building products
+- 🤔 I’m looking for help with Advanced DE Architectures and Deep Learning projects
+- 💬 Ask me about DE, Architecture Designing, Programming, CP, and DS
 - 📫 How to reach me: [G-mail](mailto:shubhanshujha.sj14@gmail.com) 
 - 😄 Pronouns: He/Him 
 
