@@ -1,11 +1,13 @@
 <img src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" width="400" height="250" /> there 👋,
 
 ### My name is Shubhanshu
-#### I am a DSA, CP, and AI/ML Blogger & an SDE Enthusiast
+#### I am a Data Engineer having a good knowledge of DSA, and CP and I love to write tech blogs
 ![Profile views](https://komarev.com/ghpvc/?username=ShubhanshuJha)
 
-I am Shubhanshu from India, and I do content for Competitive Coding, DSA, Machine Learning, and AI. I enjoy learning something new every day, especially about data structures & algorithms, as this is very helpful while doing competitive programming. I also enjoy writing technical blogs on my website and Quora.
+I am Shubhanshu from India, and I am currently working as a Data Engineer at Zelestra. Apart from learning & talking about DE, I do write content for Competitive Coding, DSA, Machine Learning, and AI. I enjoy learning something new every day, especially about new technologies & its efficient usecases. I also enjoy writing technical blogs on my website and Quora.
 
+* Data Engineer at Zelestra
+* Ex-Vestas DE
 * 4-⭐ Coder at CodeChef | 5-⭐ Coder at HackerRank
 * May Challenge 2021 Division 2 (Rated) Global Rank: 1
 * Won Meta Hacker Cup 2022 Qualification Round
@@ -23,7 +25,7 @@ I am Shubhanshu from India, and I do content for Competitive Coding, DSA, Machin
 - 👯 I’m looking to collaborate on Competitive Coding 
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about CP 
-- 📫 How to reach me: [G-mail](mailto:shubhanshujha.s19@gmail.com) 
+- 📫 How to reach me: [G-mail](mailto:shubhanshujha.sj14@gmail.com) 
 - 😄 Pronouns: He/Him 
 
 
