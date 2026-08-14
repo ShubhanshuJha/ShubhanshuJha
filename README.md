@@ -1,4 +1,5 @@
-<img src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" width="400" height="250" /> there 👋,
+<!-- <img src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" width="400" height="250" /> -->
+Hi there 👋,
 
 ### My name is Shubhanshu
 #### I am a Data Engineer having a good knowledge of DSA, and CP and I love to write tech blogs
