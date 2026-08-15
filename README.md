@@ -25,7 +25,7 @@ I am Shubhanshu from India, and I am currently working as a Data Engineer at Zel
 - 👯 I’m looking to collaborate on building products
 - 🤔 I’m looking for help with Advanced DE Architectures and Deep Learning projects
 - 💬 Ask me about DE, Architecture Designing, Programming, CP, and DS
-- 📫 How to reach me: [G-mail](mailto:shubhanshujha.sj14@gmail.com) 
+- 📫 How to reach me: [Email](mailto:shubhanshujha.sj14@gmail.com) 
 - 😄 Pronouns: He/Him 
 
 
