@@ -2,7 +2,7 @@
 Hi there 👋,
 
 ### My name is Shubhanshu
-#### I am a Data Engineer having a good knowledge of DSA, and CP and I love to write tech blogs
+#### I am a Data Engineer having a good knowledge of DSA, and Competitive Programming and I love to write tech blogs
 ![Profile views](https://komarev.com/ghpvc/?username=ShubhanshuJha)
 
 I am Shubhanshu from India, and I am currently working as a Data Engineer at Zelestra. Apart from learning & talking about DE, I do write content for Competitive Coding, DSA, Machine Learning, and AI. I enjoy learning something new every day, especially about new technologies & its efficient usecases. I also enjoy writing technical blogs on my website and Quora.
