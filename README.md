@@ -1,7 +1,7 @@
 <!-- <img src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" width="400" height="250" /> -->
 Hi There,
 
-### My name is Shubhanshu
+### My name is Shubhanshu.
 #### I am a Data Engineer having a good knowledge of DSA, and Competitive Programming and I love to write tech blogs
 ![Profile views](https://komarev.com/ghpvc/?username=ShubhanshuJha)
 
