@@ -21,7 +21,7 @@ I am Shubhanshu from Gurugram, India, currently working as a Data Engineer at Ze
 ### Skills: 
 Python / Java / SQL / PySpark / Apache Spark / Databricks / Delta Lake / Kafka (MSK) / Amazon Kinesis / AWS / Docker / Kubernetes / LLMs / MLflow
 
-- 🔭 I’m currently working on high-frequency streaming pipelines and large-scale cloud migrations on AWS
+- 🔭 I’m currently working on high-frequency streaming pipelines and large-scale data ELT/ETL on AWS, Databricks, and Snowflake
 - 🌱 I’m currently exploring deeper integrations with AI Agents, Ollama, and Amazon Bedrock
 - 👯 I’m looking to collaborate on open-source Data Engineering, CDC pipelines, and Distributed Systems projects
 - 🤔 I’m looking for help with advanced AI-powered data architectures and LLM prompt engineering
