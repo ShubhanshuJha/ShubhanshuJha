@@ -5,7 +5,7 @@ Hello There, 👋
 #### I am a Senior Data Engineer specializing in cloud-native platforms, real-time streaming architectures, and AI-driven data solutions.
 ![Profile views](https://komarev.com/ghpvc/?username=ShubhanshuJha)
 
-I am Shubhanshu from Gurugram, India, currently working as a Data Engineer at Zelestra. With nearly 4 years of experience, I build and scale distributed ETL/ELT systems across enterprise cloud ecosystems. Recently, I have focused on engineering real-time ingestion pipelines and building AI-powered AWS operations assistants utilizing LLMs, FastAPI, and prompt engineering. I enjoy learning new technologies, writing technical blogs, and solving complex problems with scalable, low-latency data solutions.
+I am Shubhanshu from Gurugram, India, currently working as a Data Engineer at Zelestra. With nearly 4 years of experience, I build and scale distributed ETL/ELT systems across enterprise cloud ecosystems. Recently, I have focused on engineering real-time data ingestion pipelines and building AI-powered AWS operations assistants utilizing LLMs, FastAPI, and prompt engineering. I enjoy learning new technologies, writing technical blogs, and solving complex problems with scalable, low-latency data solutions.
 
 * Data Engineer at Zelestra
 * Ex-Data Engineer at Vestas & Utopus Insights
