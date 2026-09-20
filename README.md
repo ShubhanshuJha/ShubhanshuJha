@@ -1,5 +1,5 @@
 <!-- <img src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" width="400" height="250" /> -->
-Hello There, 👋
+Hello There👋,
 
 ### My name is Shubhanshu Jha.
 #### I am an AWS Data Engineer specializing in cloud-native platforms, real-time streaming architectures, and AI-driven data solutions.
