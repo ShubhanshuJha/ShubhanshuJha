@@ -2,7 +2,7 @@
 Hello There👋,
 
 ### My name is Shubhanshu Jha.
-#### I am a Senior AWS Data Engineer specializing in cloud-native platforms, real-time streaming architectures, and AI-driven data solutions.
+#### I am an AWS Data Engineer specializing in cloud-native platforms, real-time streaming architectures, and AI-driven data solutions.
 ![Profile views](https://komarev.com/ghpvc/?username=ShubhanshuJha)
 
 I am Shubhanshu from Gurugram, India, currently working as a Data Engineer at Zelestra. With nearly 4 years of experience, I build and scale distributed ETL/ELT systems across enterprise cloud ecosystems. Recently, I have focused on engineering real-time data ingestion pipelines and building advanced RAG and Agentic AI pipelines utilizing AWS, LLMs, FastAPI, and prompt engineering. I enjoy learning new technologies, writing technical blogs, and solving complex problems with scalable, low-latency data solutions.
