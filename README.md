@@ -19,7 +19,7 @@ I am Shubhanshu from Gurugram, India, currently working as a Data Engineer at Ze
 * Co-Founder at CodeX (from 2021 - Now)
 
 ### Skills: 
-Python / Java / SQL / PySpark / Apache Spark / Databricks / Delta Lake / Kafka (MSK) / Amazon Kinesis / AWS / Docker / Kubernetes / LLMs / MLflow
+Python / Java / SQL / PySpark / Apache Spark / Databricks / Delta Lake / Kafka (MSK) / Redis / Amazon Kinesis / AWS / Docker / Kubernetes / LLMs / MLflow
 
 - 🔭 I’m currently working on high-frequency streaming pipelines and large-scale data ELT/ETL on AWS, Databricks, and Snowflake
 - 🌱 I’m currently exploring deeper integrations with AI Agents, Ollama, and Amazon Bedrock
