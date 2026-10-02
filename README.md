@@ -7,7 +7,7 @@ Hello There👋,
 
 I am Shubhanshu from Gurugram, India, currently working as a Data Engineer at Zelestra. With nearly 4 years of experience, I build and scale distributed ETL/ELT systems across enterprise cloud ecosystems. Recently, I have focused on engineering real-time data ingestion pipelines and building advanced RAG and Agentic AI pipelines utilizing AWS, LLMs, FastAPI, and prompt engineering. I enjoy learning new technologies, writing technical blogs, and solving complex problems with scalable, low-latency data solutions.
 
-* Data Engineer at Zelestra
+* Data Engineer at Zelestra, till 30th September 2026
 * Ex-Data Engineer at Vestas & Utopus Insights
 * B.Tech in Information Technology (CGPA: 9.06)
 * Google Kick Start 2022 - Round H Global Rank: 1,037 (AIR: 980)
