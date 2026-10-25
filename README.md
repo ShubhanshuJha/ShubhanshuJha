@@ -5,10 +5,10 @@ Hello There👋,
 #### I am a Data Engineer with around 4 years of experience, specialising in SCADA, cloud-native platforms, real-time streaming architectures, and AI-driven data solutions.
 ![Profile views](https://komarev.com/ghpvc/?username=ShubhanshuJha)
 
-I am Shubhanshu from Gurugram, India, currently working as a Data Engineer at Zelestra. With nearly 4 years of experience, I build and scale distributed ETL/ELT systems across enterprise cloud ecosystems. Recently, I have focused on engineering real-time data ingestion pipelines and building advanced RAG and Agentic AI pipelines utilizing AWS, LLMs, FastAPI, and prompt engineering. I enjoy learning new technologies, writing technical blogs, and solving complex problems with scalable, low-latency data solutions.
+I am Shubhanshu from Hyderabad, India, currently working as a Data Engineer at D. E. Shaw Renewable Investment. With nearly 4 years of experience, I build and scale distributed ETL/ELT systems across enterprise cloud ecosystems. Recently, I have focused on engineering real-time data ingestion pipelines and building advanced RAG and Agentic AI pipelines utilizing AWS, LLMs, FastAPI, and prompt engineering. I enjoy learning new technologies, writing technical blogs, and solving complex problems with scalable, low-latency data solutions.
 
-* Data Engineer at Zelestra, till 30th September 2026
-* Ex-Data Engineer at Vestas & Utopus Insights
+* Data Engineer at DESRI
+* Ex-Data Engineer at Zelestra, Vestas & Utopus Insights
 * B.Tech in Information Technology (CGPA: 9.06)
 * Google Kick Start 2022 - Round H Global Rank: 1,037 (AIR: 980)
 * Meta Hacker Cup 2022 - 5,175th Round 1 Global Rank
